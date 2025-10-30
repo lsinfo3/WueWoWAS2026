@@ -1,0 +1,59 @@
+#title: Würzburg Workshop on Next-Generation Communication Networks
+email: wuewowas25@informatik.uni-wuerzburg.de
+description: >- # this means to ignore newlines until "baseurl:"
+  WueWoWAS'26 is a two-day workshop on next-generation communication networks. The goal of the workshop is to provide attendees with an opportunity to
+  foster both their understanding of the current state of the art and to
+  learn from experienced researchers in the field.
+
+baseurl: "WueWoWAS2026" # the subpath of your site, e.g. /blog
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+
+
+# Theme configuration
+logo: "/assets/images/i3.png"
+
+atom_feed:
+  hide: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+include: ["_pages"]
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      read_time: true
+      comments: false
+      share: false
+      related: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      excerpt: "KuVS Fachgespräch - Würzburg Workshop on 6G Networks"
+      header:
+        overlay_image: /assets/images/wue_header2.jpg
+        actions:
+          - label: "Call for Participation"
+            #url: "/"  # IF THE CALL FOR PAPER STARTS --> CHANGE THIS TO THE LINE BELOW (This is just a temporary setting since cfp page is not updated yet)
+
+footer:
+  links:
+    - label: "Impressum"
+      url: "/WueWoWAS2026/impressum/"
