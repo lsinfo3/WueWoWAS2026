@@ -1,7 +1,7 @@
 ---
 permalink: /
 ---
-# WueWoWAS'26
+# WueWoWAS'26 on Networking and Computing in the 6G Era
 
 The KuVS Fachgespräch - Würzburg Workshop on Next-Generation Networks with a special focus on 6G Networks, distributed computing, and related technologies (WueWoWAS’26) focuses on preliminary and ongoing research and previously published hot topic papers on next-generation networks (NGN).
 
