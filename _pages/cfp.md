@@ -33,8 +33,6 @@ The program will include regular presentation sessions with ample time for quest
 
 - Abstract registration and submission: 17.07.2026 (hard deadline)
 - Notification of acceptance: 31.07.2026
-<!-- - Registration for speed mentoring: <INSERT DATE> 2026
-- Workshop registration: <INSERT DATE> 2026 -->
 - In-Person Event: 28.09.2026 - 30.09.2026
 
 ## Paper Submissions
