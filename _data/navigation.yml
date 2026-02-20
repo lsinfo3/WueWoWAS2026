@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "CFP"
+    url: /cfp/
 
   - title: "Archive"
     url: /archive/
