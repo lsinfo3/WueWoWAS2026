@@ -39,49 +39,28 @@ permalink: /phd_day/
 
 # PhD Day
 
-Wednesday, the third day of the workshop, is organized as a PhD Day, featuring tutorial-style talks, and (hands-on) experience sessions. 
+Wednesday, the third day of the workshop, is organized as a PhD Day, featuring tutorial-style talks. 
 
 ## Tutorial Schedule
-### 9:00-10:30 - Introduction to Quantum Communication using Computer Science and Performance Evaluation
-**Speaker: Karim Elsayed, Univ. Hannover**
+### 10:00-11:30 - TBD
+**Speaker: Dr. Sebastian Gallenmüller (TU Munich)**
 
 <div style="margin-left: 20px;">
-Quantum communication forms the foundation for connecting multiple quantum computers to collaboratively solve complex problems. This approach is driven by the difficulty of sustaining large-scale quantum systems. Unlike classical communication, quantum communication is governed by unique quantum properties, requiring fundamentally new concepts and techniques. In this tutorial, we will explain the core principles of quantum communication, its unique features, and evaluate the performance of the communication system for different approaches in light of these distinctive features.
+TBD
 </div>
-Slides available online: [DOI 10.25972/OPUS42659](https://doi.org/10.25972/OPUS-42659) 
 
 ***
 
-### 11:00-12:30 - Energy Measurements, Metrics, Models
-**Speaker: Frank Loh, Univ. Würzburg**
+### 14:00-15:30 - Understanding International Roaming in Next Generation Mobile Networks
+**Speaker: Viktoria Vomhoff, Dr. Stefan Geißler (University of Wuerzburg)**
 
 <div style="margin-left: 20px;">
-In this tutorial, we will present methods for measuring power consumption in communication networks as well as software-based approaches for approximating the power consumption. Furthermore, pitfalls in high precision energy measurements are discussed. Energy efficiency metrics from literature and standaridzation will be revisited. Finally, the impact of using the wrong energy efficiency metric is showcased.
+TBD
 </div>
-Slides available online: [DOI 10.25972/OPUS-42661](https://doi.org/10.25972/OPUS-42661) 
 
 ***
 
-### 14:00-15:30 - Open RAN and 5G Campus Networks Setup and Measurements
-**Speaker: Stanislav Lange, NTNU Trondheim**
-
-<div style="margin-left: 20px;">
-In this tutorial, we will discuss key building blocks for setting up a private 5G testbed using Software-Defined Radios (SDRs), open source software components such as OpenAirInterface and srsRAN, and off-the-shelf modems / phones. Furthermore, we will cover case studies highlighting research challenges as well as lessons learned in terms of measurement automation and reproducibility. 
-</div>
-Slides available online: [DOI 10.25972/OPUS42669](https://doi.org/10.25972/OPUS-42669) 
-
-***
-
-### 16:00-17:30 - Resilience and Sovereignty Metrics and Models
-**Speaker: Carmen Mas Machuca, UniBw München**
-
-<div style="margin-left: 20px;">
-This tutorial will give an overview of the different metrics that can be used to evaluate the sovereignty and resilience of a system. We will also present existing models for these metrics, as well as use cases where they have been applied.  
-</div>
-Slides available online: [DOI 10.25972/OPUS-42671](https://doi.org/10.25972/OPUS-42671)
-
-***
-
+<!-- 
 ## Speakers
 
 <div class="content-container">
@@ -125,3 +104,5 @@ Slides available online: [DOI 10.25972/OPUS-42671](https://doi.org/10.25972/OPUS
     Carmen Mas Machuca is a Full professor at University of the Bundeswehr Munich (UniBw), heading the Chair of Communication Networks and Privat Dozent at the Technical University of Munich (TUM). Her research interests include techno-economic studies, resilient network planning, and optical networks. She's an editor for IEEE TNSM, OSA JOCN, and IEEE Communications Magazine.  
   </div>
  </div>
+
+ -->

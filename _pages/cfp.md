@@ -1,3 +1,8 @@
+---
+title: Call for Participation
+permalink: /cfp/
+---
+
 
 # Call for Participation: KuVS Fachgespräch - Würzburg Workshop on Networking and Computing in the 6G Era (WueWoWAS’26)
 
