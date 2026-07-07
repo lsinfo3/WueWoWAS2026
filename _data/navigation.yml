@@ -1,8 +1,15 @@
 main:
   - title: "Home"
     url: /
+
   - title: "CFP"
     url: /cfp/
+
+  - title: "Speedmentoring"
+    url: /mentoring/
+    
+  - title: "PhD Day"
+    url: /phd_day/
 
   - title: "Archive"
     url: /archive/

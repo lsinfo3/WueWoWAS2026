@@ -1,11 +1,8 @@
----
-title: Call for Papers
-permalink: /cfp/
----
 
 # Call for Participation: KuVS Fachgespräch - Würzburg Workshop on Networking and Computing in the 6G Era (WueWoWAS’26)
 
-28.09.2026 - 30.09.2026, Würzburg, Germany <https://lsinfo3.github.io/WueWoWAS2026/>
+28.09.2026 - 30.09.2026, Würzburg, Germany
+<https://lsinfo3.github.io/WueWoWAS2026/>
 
 The KuVS Fachgespräch - Würzburg Workshop on Next-Generation Networks with a special focus on 6G Networks, distributed computing, and related technologies (WueWoWAS’26) focuses on preliminary and ongoing research and previously published hot topic papers on next-generation networks.
 
@@ -31,7 +28,7 @@ The program will include regular presentation sessions with ample time for quest
 
 ## Important Dates
 
-- Abstract registration and submission: 24.07.2026 (hard deadline)
+- Abstract registration and submission: 17.07.2026 (hard deadline)
 - Notification of acceptance: 31.07.2026
 - Registration for speed mentoring: 28.08.2026
 - Workshop registration: 28.08.2026
@@ -50,7 +47,8 @@ Authors should register and upload paper submissions via the EDAS conference sys
 Workshop registration is handled via the EDAS Conference and Journal Management System.
 Participants are required to register by 28.08.2026.
 The participation fee will be 175€ for all participants (authors and non-authors) and covers participation, open-access publication of accepted abstracts, drinks and lunch on all three days, as well as the social dinner on Monday evening.
-Please use the following link to register for the workshop: https://edas.info/r35062
+Please use the following link to register for the workshop:
+https://edas.info/r35062
 
 ## Organization Committee
 
@@ -67,9 +65,9 @@ Please use the following link to register for the workshop: https://edas.info/r3
 
 - GI/ITG KuVS: Communication and Distributed Systems
 - VDE ITG KT 2: Communication Networks and Systems
-- GI/ITG MMB: Measurement, Modelling and Evaluation of Computing Systems
 
 ## Supporting Projects
 
 - SUSTAINET-Advance
 - ORIGAMI
+- SOS Project
