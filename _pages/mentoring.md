@@ -57,28 +57,27 @@ Further details will be shared with registered attendees soon.
     </div>
 	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Prof. Dr. Michael Seufert (Univ. Augsburg)</div>
 	<div class="content-block">
-			<img src="{{ '/assets/images/seufert.jpg' | relative_url }}" alt="Dr. Johannes Riedl" class="image left">
-        	<div class="text">
-            		<p>Michael Seufert is a Full Professor at the University of Augsburg, Germany, heading the Chair of Networked Systems and Communication Networks. He received the Bachelor’s degree (2018) in Economathematics and the Diploma (2011), PhD (2017), and Habilitation (2023) degrees in Computer Science from the University of Würzburg, Germany, and holds the First State Examination degree (2011) in Mathematics, Computer Science, and Education for teaching in secondary schools. His research focuses on user-centric communication networks, including QoE of Internet applications, AI/ML for QoE-aware network management, as well as group-based communications. </p>
-        	</div>
+		<img src="{{ '/assets/images/seufert.jpg' | relative_url }}" alt="Dr. Johannes Riedl" class="image left">
+		<div class="text">
+				<p>Michael Seufert is a Full Professor at the University of Augsburg, Germany, heading the Chair of Networked Systems and Communication Networks. He received the Bachelor’s degree (2018) in Economathematics and the Diploma (2011), PhD (2017), and Habilitation (2023) degrees in Computer Science from the University of Würzburg, Germany, and holds the First State Examination degree (2011) in Mathematics, Computer Science, and Education for teaching in secondary schools. His research focuses on user-centric communication networks, including QoE of Internet applications, AI/ML for QoE-aware network management, as well as group-based communications. </p>
+		</div>
     </div>
+	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Prof. Dr. Andreas Kassler</div>
+	<div class="content-block">
+		<img src="{{ '/assets/images/kassler.jpeg' | relative_url }}" alt="Dr. Rastin Pries" class="image left">
+		<div class="text">
+				<p>Andreas J. Kassler is Professor of Computer Science at Deggendorf Institute of Technology, Germany (since 2023) and Karlstads Universitet, Karlstad, Sweden (since 2005). From 2003 to 2004, Dr. Andreas J. Kassler was Assistant Professor at the School of Computer Engineering, Nanyang Technological University, Singapore. At Degegndorf, he is leading the Intelligent Network and Systems Lab. He maintains an active research program in the fields of networking and cloud computing with main research focus on Software Defined Networking, Future Internet, Datacenter Networking and, Quality of Service.</p>
+		</div>
+	</div>
 	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Prof. Dr. Michael Jarschel</div>
-    	<div class="content-block">
+	<div class="content-block">
         	<!-- 
 			<img src="{{ '/assets/images/rastin_pries.jpg' | relative_url }}" alt="Dr. Rastin Pries" class="image left">
         	<div class="text">
             		<p></p>
         	</div>
 			-->
-    	</div>
 	</div>
-	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Prof. Dr. Andreas Kassler</div>
-    	<div class="content-block">
-			<img src="{{ '/assets/images/kassler.jpeg' | relative_url }}" alt="Dr. Rastin Pries" class="image left">
-        	<div class="text">
-            		<p>Andreas J. Kassler is Professor of Computer Science at Deggendorf Institute of Technology, Germany (since 2023) and Karlstads Universitet, Karlstad, Sweden (since 2005). From 2003 to 2004, Dr. Andreas J. Kassler was Assistant Professor at the School of Computer Engineering, Nanyang Technological University, Singapore. At Degegndorf, he is leading the Intelligent Network and Systems Lab. He maintains an active research program in the fields of networking and cloud computing with main research focus on Software Defined Networking, Future Internet, Datacenter Networking and, Quality of Service.</p>
-        	</div>
-    	</div>
-	</div>
+</div>
 
 	
