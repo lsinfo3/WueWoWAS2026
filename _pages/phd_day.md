@@ -43,20 +43,27 @@ Wednesday, the third day of the workshop, is organized as a PhD Day, featuring t
 
 ## Tutorial Schedule
 ### 10:00-11:30 - TBD
-**Speaker: Dr. Sebastian Gallenmüller (TU Munich)**
 
-<div style="margin-left: 20px;">
-TBD
-</div>
+<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Speaker: Dr. Sebastian Gallenmüller (TU Munich)</div>
+<div class="content-block">
+    <img src="{{ '/assets/images/gallenmueller.jpg' | relative_url }}" alt="Dr. Johannes Riedl" class="image left">
+        <div class="text">
+              <p>Sebastian Gallenmüller is a researcher at the Technical University of Munich (TUM), where he is affiliated with the Chair of Network Architectures and Services. He received his Ph.D. from TUM in 2021. His research focuses on computer networking, with particular emphasis on network performance evaluation, experimental testbed design, and reproducible experiment workflows. He is actively involved in the SLICES-DE project, which aims to establish a national research infrastructure for experimental networking and distributed systems as part of the European SLICES-RI initiative. </p>
+        </div>
+  </div>
 
 ***
 
 ### 14:00-15:30 - Understanding International Roaming in Next Generation Mobile Networks
-**Speaker: Viktoria Vomhoff, Dr. Stefan Geißler (University of Wuerzburg)**
-
-<div style="margin-left: 20px;">
-TBD
-</div>
+<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Speaker: Viktoria Vomhoff, Dr. Stefan Geißler (University of Wuerzburg)</div>
+<!--
+<div class="content-block">
+    <img src="{{ '/assets/images/gallenmueller.jpg' | relative_url }}" alt="Dr. Johannes Riedl" class="image left">
+        <div class="text">
+              <p>Sebastian Gallenmüller is a researcher at the Technical University of Munich (TUM), where he is affiliated with the Chair of Network Architectures and Services. He received his Ph.D. from TUM in 2021. His research focuses on computer networking, with particular emphasis on network performance evaluation, experimental testbed design, and reproducible experiment workflows. He is actively involved in the SLICES-DE project, which aims to establish a national research infrastructure for experimental networking and distributed systems as part of the European SLICES-RI initiative. </p>
+        </div>
+  </div>
+-->
 
 ***
 
