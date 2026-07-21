@@ -42,40 +42,33 @@ permalink: /phd_day/
 Wednesday, the third day of the workshop, is organized as a PhD Day, featuring tutorial-style talks. 
 
 ## Tutorial Schedule
-### TBD
+### TBD - TBD
 
-<div class="content-container">
- <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 230px;">Speaker: Sebastian Gallenmüller (TU Munich)</div>
- <div class="content-block">
-  <img src="{{ '/assets/images/gallenmueller.png' | relative_url }}" style=" background-color:white" class="image left" >
-  <div class="text">
-    Sebastian Gallenmüller is a researcher at the Technical University of Munich (TUM), where he is affiliated with the Chair of Network Architectures and Services. He received his Ph.D. from TUM in 2021. His research focuses on computer networking, with particular emphasis on network performance evaluation, experimental testbed design, and reproducible experiment workflows. He is actively involved in the SLICES-DE project, which aims to establish a national research infrastructure for experimental networking and distributed systems as part of the European SLICES-RI initiative. 
+<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Speaker: Sebastian Gallenmüller (TU Munich)</div>
+<div class="content-block">
+    <img src="{{ '/assets/images/gallenmueller.png' | relative_url }}" alt="Dr. Sebastian Gallenmüller" class="image left">
+        <div class="text">
+              <p>Sebastian Gallenmüller is a researcher at the Technical University of Munich (TUM), where he is affiliated with the Chair of Network Architectures and Services. He received his Ph.D. from TUM in 2021. His research focuses on computer networking, with particular emphasis on network performance evaluation, experimental testbed design, and reproducible experiment workflows. He is actively involved in the SLICES-DE project, which aims to establish a national research infrastructure for experimental networking and distributed systems as part of the European SLICES-RI initiative. </p>
+        </div>
   </div>
-  <div style="margin-left: 20px;">
-  Abstract: TBD
-  </div>
- </div>
-</div>
-
 
 ***
 
-### TBD - Understanding International Roaming in Next Generation Mobile Networks
-<div class="content-container">
- <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 230px;">Viktoria Vomhoff, Stefan Geißler (University of Wuerzburg)</div>
- <div class="content-block">
-  <img src="{{ '/assets/images/vomhoff.jpg' | relative_url }}" style=" background-color:white" class="image left" >
-  <img src="{{ '/assets/images/geissler.jpg' | relative_url }}" style=" background-color:white" class="image left" >
-  <div class="text">
-    Viktoria Vomhoff is pursuing her Ph.D. at the Chair of Communication Networks at the University of Würzburg, where she also obtained her Master’s degree in Computer Science. Her research interests include the Internet of Things, mobile communications, network traffic measurement and modeling, and the performance evaluation of communication systems. Her current work focuses on global cellular connectivity, mobile roaming infrastructures, and the performance of IoT networks.
-    <br><br>
-    Stefan Geißler leads the Next Generation Networks research group at the University of Würzburg’s Chair of Communication Networks. His research focuses on 5G and 6G systems, convergent IoT infrastructures, network monitoring, and performance modeling. He earned his doctorate in computer science in 2022 with a dissertation on evaluating next-generation data-plane architectures. His work has received the VDE Bayern Award and the University Sponsorship Award of the Main-Franconian business community.
+### TBD- Understanding International Roaming in Next Generation Mobile Networks
+<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Speaker: Viktoria Vomhoff, Stefan Geißler (University of Wuerzburg)</div>
+<div class="content-block">
+    <img src="{{ '/assets/images/vomhoff.jpg' | relative_url }}" alt="Dr. Johannes Riedl" class="image left">
+        <div class="text">
+              <p>Viktoria Vomhoff is pursuing her Ph.D. at the Chair of Communication Networks at the University of Würzburg, where she also obtained her Master’s degree in Computer Science. Her research interests include the Internet of Things, mobile communications, network traffic measurement and modeling, and the performance evaluation of communication systems. Her current work focuses on global cellular connectivity, mobile roaming infrastructures, and the performance of IoT networks.</p>
+        </div>
   </div>
-  <div style="margin-left: 20px;">
-  Abstract: TBD
+  <div class="content-block">
+    <img src="{{ '/assets/images/geissler.jpg' | relative_url }}" alt="Dr. Johannes Riedl" class="image left">
+        <div class="text">
+              <p>Stefan Geißler leads the Next Generation Networks research group at the University of Würzburg’s Chair of Communication Networks. His research focuses on 5G and 6G systems, convergent IoT infrastructures, network monitoring, and performance modeling. He earned his doctorate in computer science in 2022 with a dissertation on evaluating next-generation data-plane architectures. His work has received the VDE Bayern Award and the University Sponsorship Award of the Main-Franconian business community.</p>
+        </div>
   </div>
- </div>
-</div>
+
 
 ***
 
