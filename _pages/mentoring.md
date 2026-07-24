@@ -69,7 +69,7 @@ Further details will be shared with registered attendees soon.
 				<p>Andreas J. Kassler is Professor of Computer Science at Deggendorf Institute of Technology, Germany (since 2023) and Karlstads Universitet, Karlstad, Sweden (since 2005). From 2003 to 2004, Dr. Andreas J. Kassler was Assistant Professor at the School of Computer Engineering, Nanyang Technological University, Singapore. At Degegndorf, he is leading the Intelligent Network and Systems Lab. He maintains an active research program in the fields of networking and cloud computing with main research focus on Software Defined Networking, Future Internet, Datacenter Networking, and Quality of Service.</p>
 		</div>
 	</div>
-	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Dr. Michael Jarschel (Nvidia)</div>
+	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Dr. Michael Jarschel (NVIDIA)</div>
 	<div class="content-block">
 			<img src="{{ '/assets/images/MJ.png' | relative_url }}" alt="Dr. Michael Jarschel" class="image left">
         	<div class="text">
