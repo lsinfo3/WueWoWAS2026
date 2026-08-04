@@ -11,6 +11,15 @@ main:
   - title: "Tutorials"
     url: /phd_day/
 
+  - title: "Registration"
+    url: /registration
+
+  - title: "Authors"
+    url: /authors
+
+  - title: "Venue"
+    url: /venue
+
   - title: "Archive"
     url: /archive/
 
