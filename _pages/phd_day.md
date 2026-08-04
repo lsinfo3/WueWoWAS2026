@@ -37,9 +37,9 @@ permalink: /phd_day/
 }
 </style>
 
-# PhD Day
+# Tutorial Programme
 
-Wednesday, the third day of the workshop, is organized as a PhD Day, featuring tutorial-style talks. 
+Tutorials are scheduled for Tuesday, the second day of the workshop. 
 
 ## Tutorial Schedule
 ### TBD - TBD
