@@ -1,5 +1,5 @@
 ---
-title: PhD Day
+title: Tutorials
 permalink: /phd_day/
 ---
 
