@@ -3,7 +3,6 @@ title: Call for Participation
 permalink: /cfp/
 ---
 
-
 # Call for Participation: KuVS Fachgespräch - Würzburg Workshop on Networking and Computing in the 6G Era (WueWoWAS’26)
 
 28.09.2026 - 29.09.2026, Würzburg, Germany
@@ -25,11 +24,10 @@ The goal of the workshop is to foster communication among researchers from indus
 
 ## Preliminary Program
 
-The program will include regular presentation sessions with ample time for questions and discussion. Due to the very positive feedback, we will again organize a speed-mentoring session with invited experts from academia and industry. Participants will have the opportunity to book slots with each of the invited experts to discuss their own work, recent developments, or other professional matters. The main workshop will start on Monday morning and finish Tuesday afternoon. Wednesday is organized as a PhD Day featuring tutorial-style talks and (hands-on) experience sessions. Details regarding the workshop program will be provided at a later date.
+The program will include regular presentation sessions with ample time for questions and discussion. Due to the very positive feedback, we will again organize a speed-mentoring session with invited experts from academia and industry. Participants will have the opportunity to book slots with each of the invited experts to discuss their own work, recent developments, or other professional matters. The main workshop will start on Monday morning and finish Tuesday afternoon. Details regarding the workshop program will be provided at a later date.
 
-- Monday: keynote and technical sessions, social event
-- Tuesday: keynote and technical sessions
-- Wednesday: PhD Day
+- Monday: keynote and technical sessions, speedmentoring, social event
+- Tuesday: keynote and technical sessions, tutorials
 
 ## Important Dates
 
@@ -50,8 +48,8 @@ Authors should register and upload paper submissions via the EDAS conference sys
 ## Registration
 
 Workshop registration is handled via the EDAS Conference and Journal Management System.
-Participants are required to register by 28.08.2026.
-The participation fee will be 200€ for all participants (authors and non-authors) and covers participation, open-access publication of accepted abstracts, drinks and lunch on all three days, as well as the social dinner on Monday evening.
+Participants are required to register by 04.09.2026.
+The participation fee will be 200€ for all participants (authors and non-authors) and covers participation, open-access publication of accepted abstracts, drinks and lunch, as well as the social dinner on Monday evening.
 Please use the following link to register for the workshop:
 https://edas.info/r35062
 
