@@ -6,7 +6,7 @@ permalink: /cfp/
 
 # Call for Participation: KuVS Fachgespräch - Würzburg Workshop on Networking and Computing in the 6G Era (WueWoWAS’26)
 
-28.09.2026 - 30.09.2026, Würzburg, Germany
+28.09.2026 - 29.09.2026, Würzburg, Germany
 <https://lsinfo3.github.io/WueWoWAS2026/>
 
 The KuVS Fachgespräch - Würzburg Workshop on Next-Generation Networks with a special focus on 6G Networks, distributed computing, and related technologies (WueWoWAS’26) focuses on preliminary and ongoing research and previously published hot topic papers on next-generation networks.
@@ -19,7 +19,7 @@ The central theme is 6G networks and compute infrastructure, covering advanced a
 - **Evaluation and Quantification:** measurements, modeling, simulation, analysis of QoS, Quality of Compute (QoC), QoE, sustainability, energy efficiency, resilience, etc. as well as trade-offs; interdependency evaluation, e.g., between power, communication, and compute resources, edge and cloud computing, wired and wireless connectivity, centralized and distributed architectures, etc.
 - **Evaluation Platforms and Tools:** open-source software for simulation and prototyping, useful tools and software frameworks, workflows for testbeds, reproducibility frameworks, and benchmarking methodologies for network and compute performance.
 
-The workshop will take place in-person in Würzburg, Germany on 28.09.2026 - 30.09.2026. We encourage PhD students, early career scientists, as well as senior researchers to contribute early-state and ongoing research or previously published hot topic papers in the form of extended abstracts no longer than 3 pages, with 1 additional page for references.
+The workshop will take place in-person in Würzburg, Germany on 28.09.2026 - 29.09.2026. We encourage PhD students, early career scientists, as well as senior researchers to contribute early-state and ongoing research or previously published hot topic papers in the form of extended abstracts no longer than 3 pages, with 1 additional page for references.
 
 The goal of the workshop is to foster communication among researchers from industry and academia and provide a venue for early feedback. To this end, invited experience talks and discussion slots on important topics in NGN, 6G, and related computing aspects are an integral part of the program.
 
@@ -35,9 +35,9 @@ The program will include regular presentation sessions with ample time for quest
 
 - Abstract registration and submission: 17.07.2026 (hard deadline)
 - Notification of acceptance: 31.07.2026
-- Registration for speed mentoring: 28.08.2026
-- Workshop registration: 28.08.2026
-- In-Person Event: 28.09.2026 - 30.09.2026
+- Registration for speed mentoring: 04.09.2026
+- Workshop registration: 04.09.2026
+- In-Person Event: 28.09.2026 - 29.09.2026
 
 ## Paper Submissions
 
