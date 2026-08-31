@@ -46,13 +46,13 @@ The program includes regular presentation sessions with ample time for questions
 | Start       | End         | Program                          | 
 | ----------- | ----------- | -----------------                |
 | 12:00       | 13:00       | Welcome & Finger Food            |
-| 13:00       | 13:45       | Invited talk 1                   |
+| 13:00       | 13:45       | Invited Talk 1                   |
 | 13:45       | 14:30       | Paper 1                          |
 | 14:30       | 15:00       | Coffee break                     |
-| 15:00       | 16:30       | Paper 2,3,4                      |
+| 15:00       | 16:30       | Papers 2,3,4                     |
 | 16:30       | 17:30       | Speedmentoring                   |
 |             |             | Get-Together                     |
-| 19:00       | 22:00       | Social Event                     |
+| 19:00       | 22:00       | Social Dinner                    |
 
 
 ## Tuesday, 29.09.26
@@ -61,11 +61,11 @@ The program includes regular presentation sessions with ample time for questions
 | ----------- | ----------- | -----------------      |
 | 09:00       | 10:00       | Invited Talk 2         |
 | 10:00       | 10:30       | Paper 5                |
-| 10:30       | 11:00       | Coffee break           |
-| 11:00       | 12:30       | Paper 6,7,8            |
-| 12:30       | 14:00       | Lunch                  |
-| 14:00       | 15:30       | Tutorial 1             |
-| 15:30       | 16:00       | Coffee break           |
-| 16:00       | 17:30       | Session 5: Open RAN    |
+| 10:30       | 11:00       | Coffee Break           |
+| 11:00       | 12:00       | Papers 6,7,8           |
+| 12:00       | 13:30       | Lunch                  |
+| 13:30       | 15:00       | Tutorial 1             |
+| 15:00       | 15:30       | Coffee break           |
+| 15:30       | 17:00       | Session 5: Open RAN    |
 | 18:30       | 21:30       | (Dinner at own cost)   |
 
