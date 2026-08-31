@@ -57,21 +57,23 @@ Tutorials are scheduled for Tuesday, the second day of the workshop.
 
 ***
 
-### TBD- Understanding International Roaming in Next Generation Mobile Networks
+### MARKLAB - Understanding International Roaming in Next Generation Mobile Networks
 <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Speaker: Viktoria Vomhoff, Stefan Geißler (University of Wuerzburg)</div>
 <div class="content-block">
-    <img src="{{ '/assets/images/vomhoff.jpg' | relative_url }}" alt="Dr. Johannes Riedl" class="image left">
+    <img src="{{ '/assets/images/vomhoff.jpg' | relative_url }}" alt="Viktoria Vomhoff" class="image left">
         <div class="text">
               <p>Viktoria Vomhoff is pursuing her Ph.D. at the Chair of Communication Networks at the University of Würzburg, where she also obtained her Master’s degree in Computer Science. Her research interests include the Internet of Things, mobile communications, network traffic measurement and modeling, and the performance evaluation of communication systems. Her current work focuses on global cellular connectivity, mobile roaming infrastructures, and the performance of IoT networks.</p>
         </div>
   </div>
   <div class="content-block">
-    <img src="{{ '/assets/images/geissler.jpg' | relative_url }}" alt="Dr. Johannes Riedl" class="image left">
+    <img src="{{ '/assets/images/geissler.jpg' | relative_url }}" alt="Dr. Stefan Geißler" class="image left">
         <div class="text">
               <p>Stefan Geißler leads the Next Generation Networks research group at the University of Würzburg’s Chair of Communication Networks. His research focuses on 5G and 6G systems, convergent IoT infrastructures, network monitoring, and performance modeling. He earned his doctorate in computer science in 2022 with a dissertation on evaluating next-generation data-plane architectures. His work has received the VDE Bayern Award and the University Sponsorship Award of the Main-Franconian business community.</p>
         </div>
   </div>
-
+<div class="content-block">
+ Abstract: This tutorial presents the current state of international roaming in LTE and 5G mobile networks and provides an overview to the MARKLAB measurement platform, including a demonstration and hands-on experience of conducting active measurements in production mobile networks.
+</div>
 
 ***
 
