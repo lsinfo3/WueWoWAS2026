@@ -37,7 +37,7 @@ permalink: /program/
 </style>
 
 
-# WueWoWAS'25 Program
+# WueWoWAS'26 Program
 
 The program includes regular presentation sessions with ample time for questions and discussion as well as invited talks by well known experts. Due to the very positive feedback, we will once again organize a speedmentoring session for PhD students. Participants will have the opportunity to book slots with each of the invited experts to discuss their own work, recent developments, or other professional matters. 
 
