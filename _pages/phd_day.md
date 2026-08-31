@@ -42,7 +42,7 @@ permalink: /phd_day/
 Tutorials are scheduled for Tuesday, the second day of the workshop. 
 
 ## Tutorial Schedule
-### TBD - TBD
+### Reproducible Experiment Workflows
 
 <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Speaker: Sebastian Gallenmüller (TU Munich)</div>
 <div class="content-block">
@@ -51,6 +51,9 @@ Tutorials are scheduled for Tuesday, the second day of the workshop.
               <p>Sebastian Gallenmüller is a researcher at the Technical University of Munich (TUM), where he is affiliated with the Chair of Network Architectures and Services. He received his Ph.D. from TUM in 2021. His research focuses on computer networking, with particular emphasis on network performance evaluation, experimental testbed design, and reproducible experiment workflows. He is actively involved in the SLICES-DE project, which aims to establish a national research infrastructure for experimental networking and distributed systems as part of the European SLICES-RI initiative. </p>
         </div>
   </div>
+<div class="content-block">
+ Abstract: This tutorial presents the end-to-end experiment workflow enabled by the plain orchestrating service (pos). It demonstrates how the pos framework systematically supports researchers in constructing fully reproducible experimental workflows. By adhering to the pos methodology and standardized templates, experiments are constructed in an inherently reproducible manner without imposing extra overhead on the researchers. In this hands-on session, participants will learn to build and deploy their own experiments on a pos-driven testbed. Furthermore, pos will serve as the primary orchestration framework for the future SLICES research infrastructure. 
+</div>
 
 ***
 
