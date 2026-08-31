@@ -5,6 +5,9 @@ main:
   - title: "CFP"
     url: /cfp/
 
+  - title: "Program"
+    url: /program/
+
   - title: "Speedmentoring"
     url: /mentoring/
     
