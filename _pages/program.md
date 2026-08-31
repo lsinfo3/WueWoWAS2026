@@ -66,6 +66,6 @@ The program includes regular presentation sessions with ample time for questions
 | 12:00       | 13:30       | Lunch                  |
 | 13:30       | 15:00       | Tutorial 1             |
 | 15:00       | 15:30       | Coffee break           |
-| 15:30       | 17:00       | Session 5: Open RAN    |
+| 15:30       | 17:00       | Tutorial 2   |
 | 18:30       | 21:30       | (Dinner at own cost)   |
 
