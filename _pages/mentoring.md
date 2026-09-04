@@ -76,6 +76,7 @@ Further details will be shared with registered attendees soon.
             		<p>Dr. Michael Jarschel completed his doctorate at the University of Würzburg (Chair of Computer Science III - Communication Networks), working on software-defined networking (SDN), network function virtualization (NFV), and Quality of Experience (QoE). Over the course of his career across research, academia, and industry, he served as a  Senior Research Engineer at Nokia Technology & Innovation and Nokia Bell Labs, later became a Professor of Communication Networks and Cybersecurity at the Technische Hochschule Ingolstadt (THI) in 2021, and has since transitioned to the private sector as a Senior Performance Analysis Engineer at NVIDIA, where he works on optimizing the performance of AI datacenter fabrics.</p>
         	</div>
 	</div>
+	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Artur Michalczyk (emnify)</div>
 		<div class="content-block">
 			<img src="{{ '/assets/images/artur_emnify.jpg' | relative_url }}" alt="Artur Michalczyk" class="image left">
         	<div class="text">
