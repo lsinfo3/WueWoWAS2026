@@ -78,7 +78,7 @@ Further details will be shared with registered attendees soon.
 	</div>
 	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Artur Michalczyk (emnify)</div>
 		<div class="content-block">
-			<img src="{{ '/assets/images/artur_emnify.jpg' | relative_url }}" alt="Artur Michalczyk" class="image left">
+			<img src="{{ '/assets/images/artur_emnify_zoomed.png' | relative_url }}" alt="Artur Michalczyk" class="image left">
         	<div class="text">
             		<p>Artur Michalczyk is the CTO of emnify, where he oversees product strategy and leads the engineering teams developing the cloud-native IoT SuperNetwork. The platform enables enterprises to connect, operate, and secure their device fleets globally using a single SIM.
 
