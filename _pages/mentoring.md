@@ -76,6 +76,16 @@ Further details will be shared with registered attendees soon.
             		<p>Dr. Michael Jarschel completed his doctorate at the University of Würzburg (Chair of Computer Science III - Communication Networks), working on software-defined networking (SDN), network function virtualization (NFV), and Quality of Experience (QoE). Over the course of his career across research, academia, and industry, he served as a  Senior Research Engineer at Nokia Technology & Innovation and Nokia Bell Labs, later became a Professor of Communication Networks and Cybersecurity at the Technische Hochschule Ingolstadt (THI) in 2021, and has since transitioned to the private sector as a Senior Performance Analysis Engineer at NVIDIA, where he works on optimizing the performance of AI datacenter fabrics.</p>
         	</div>
 	</div>
+		<div class="content-block">
+			<img src="{{ '/assets/images/artur_emnify.jpg' | relative_url }}" alt="Artur Michalczyk" class="image left">
+        	<div class="text">
+            		<p>Artur Michalczyk is the CTO of emnify, where he oversees product strategy and leads the engineering teams developing the cloud-native IoT SuperNetwork. The platform enables enterprises to connect, operate, and secure their device fleets globally using a single SIM.
+
+An INSEAD alumnus, Artur brings over three decades of executive leadership experience across the telecommunications and cloud industries. Throughout his career, he has held C-level roles at roaming pioneer MACH, messaging aggregator Syniverse, cloud contact center provider NewVoiceMedia, and leading communications API provider Vonage (now part of Ericsson).
+
+As Chair of the GSMA TADIG File Specification Subgroup (FSS), he also played a central role in developing the core specifications that continue to underpin international roaming today.</p>
+        	</div>
+	</div>
 </div>
 
 	
