@@ -66,8 +66,8 @@ The program includes regular presentation sessions with ample time for questions
 | 11:00       | 12:00       | Island-Ready Messengers: Making Crisis-Relevant Everyday Apps Resilient Against Internet Outages - _Leon Janzen; Leon Langer; Matthias Hollick_           |
 | | | Drift-Adaptive in-Network Random Forest Classification on Programmable Switches - _Juled Zaganjori; Elmer Dema; Lukas Froschauer; Andreas Kassler_ |
 | 12:00       | 13:30       | Lunch                  |
-| 13:30       | 15:00       | Tutorial 1             |
+| 13:30       | 15:00       | Reproducible Experiment Workflows - _Sebastian Gallenmüller_           |
 | 15:00       | 15:30       | Coffee break           |
-| 15:30       | 17:00       | Tutorial 2   |
+| 15:30       | 17:00       | MARKLAB: Understanding International Roaming in Next Generation Mobile Networks - _Viktoria Vomhoff_   |
 | 18:30       | 21:30       | (Dinner at own cost)   |
 
