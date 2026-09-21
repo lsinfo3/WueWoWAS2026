@@ -51,6 +51,7 @@ The program includes regular presentation sessions with ample time for questions
 | 14:30       | 15:00       | Coffee break                     |
 | 15:00       | 16:30       | Constraint-Aware SAC-Lagrangian Control for SLA-Preserving RAN Slicing - _Amina Khadir; Wissal Messikh; Khalid Ali; Andreas Kassler; Malika Bessedik_ |
 | | | Repeatable Experiments, Inspectable Results: Lessons from Private 5G Campus Networks - _Lukas Kilian Schumann; Simon Raffeck; Stefan Geissler; Tobias Hoßfeld_ |
+| | | From Prose to Probe: LLM-Driven Red-Teaming of Your 5G Deployments - _Anders Kornberg Simensen_ | 
 | 16:30       | 17:30       | Speedmentoring                   |
 |             |             | Get-Together                     |
 | 19:00       | 22:00       | Social Dinner                    |
